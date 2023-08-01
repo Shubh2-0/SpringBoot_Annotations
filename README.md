@@ -17,8 +17,6 @@ This repository contains examples and explanations of various Spring Boot annota
     - 3.6 [**@Component**](#component)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
-6. [License](#license)
-
 ## Introduction
 
 Spring Boot is an opinionated framework that aims to simplify the development of production-ready applications using the Spring ecosystem. One of the core features of Spring Boot is its extensive use of annotations. These annotations help configure the behavior of various components, simplify dependency injection, and enable features like web service endpoints.
@@ -30,7 +28,7 @@ This repository serves as a reference for developers who want to understand the 
 To get started, you need to have Java and Maven installed on your system. Clone this repository to your local machine and import it into your preferred Java IDE.
 
 ```bash
-git clone https://github.com/your-username/SpringBoot_Annotations.git
+git clone https://github.com/Shubh2-0/SpringBoot_Annotations.git
 ```
 
 ## Annotations
