@@ -1,5 +1,5 @@
 # SpringBoot_Annotations
-
+ 
 ![image](https://github.com/Shubh2-0/SpringBoot_Annotations/assets/112773220/95dbb7aa-8639-45e5-89ba-b832fb332f35)
 
 This repository contains examples and explanations of various Spring Boot annotations. Spring Boot is a powerful framework for building Java applications with minimal configuration. Annotations play a crucial role in configuring and customizing Spring Boot applications.
